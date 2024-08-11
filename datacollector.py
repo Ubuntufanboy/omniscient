@@ -1,5 +1,5 @@
 import dataset
-xsize = 50
+xsize = 20
 start = 0 # Probably poinless
 end = len(dataset.dataset) - (xsize + 2) # Starts at 0 and we need a y value
 
